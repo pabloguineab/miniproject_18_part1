@@ -29,7 +29,7 @@ You can find the full code in the repository.
 
 ## Live Demo
 
-The HTML page created by this code is publicly available via [GitHub Pages](https://pabloguineab.github.io/miniproject_g18_p1/).
+The HTML page created by this code is publicly available via [GitHub Pages](https://pabloguineab.github.io/miniproject_18_part1/).
 
 ## Feedback and Contributions
 
